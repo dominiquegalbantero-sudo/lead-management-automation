@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test:edge": "node --test supabase/functions/_shared/*.test.mjs"
+  },
+  "devDependencies": {
+    "supabase": "^2.120.0"
+  }
+}
